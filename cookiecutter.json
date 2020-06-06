@@ -1,0 +1,9 @@
+{
+    "project_name": "new-project",
+    "version": "0.0.1",
+    "author": "John Doe",
+    "email": "john@doe.com",
+    "description": "My project short description",
+    "license": ["MIT", "BSD-3", "BSD-2", "GNU GPL v3.0", "Apache Software License 2.0"],
+    "github": "https://github.com/dymmond/cookiecutter-python-lib"
+}

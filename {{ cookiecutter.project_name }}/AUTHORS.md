@@ -1,0 +1,3 @@
+# Authors
+
+{{ cookiecutter.author }}
